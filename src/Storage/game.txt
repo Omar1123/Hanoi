@@ -1,0 +1,3 @@
+Mover disco  1 de Torre(1) a Torre(2),
+Mover disco  2 de Torre(1) a Torre(3),
+Mover disco  1 de Torre(2) a Torre(3),
